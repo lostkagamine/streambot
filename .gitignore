@@ -112,3 +112,6 @@ $RECYCLE.BIN/
 # End of https://www.gitignore.io/api/node,windows,visualstudiocode
 
 config.json
+
+# actually screw lockfiles
+package-lock.json
